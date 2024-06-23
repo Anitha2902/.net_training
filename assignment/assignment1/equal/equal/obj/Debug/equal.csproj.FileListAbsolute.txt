@@ -1,7 +1,0 @@
-C:\Csharp\assignment\assignment1\equal\equal\obj\Debug\equal.csproj.AssemblyReference.cache
-C:\Csharp\assignment\assignment1\equal\equal\obj\Debug\equal.csproj.CoreCompileInputs.cache
-C:\Csharp\assignment\assignment1\equal\equal\bin\Debug\equal.exe.config
-C:\Csharp\assignment\assignment1\equal\equal\bin\Debug\equal.exe
-C:\Csharp\assignment\assignment1\equal\equal\bin\Debug\equal.pdb
-C:\Csharp\assignment\assignment1\equal\equal\obj\Debug\equal.exe
-C:\Csharp\assignment\assignment1\equal\equal\obj\Debug\equal.pdb

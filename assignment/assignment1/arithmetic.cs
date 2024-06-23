@@ -26,6 +26,8 @@ namespace arithmetic
             Console.WriteLine("product:" + product);
             Console.WriteLine("division:" + division);
 
+            Console.Read();
+
         }
 
     }
