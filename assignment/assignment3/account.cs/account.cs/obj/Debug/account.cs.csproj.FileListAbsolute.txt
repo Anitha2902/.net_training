@@ -1,2 +1,0 @@
-C:\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.csproj.AssemblyReference.cache
-C:\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.csproj.CoreCompileInputs.cache
