@@ -1,7 +1,0 @@
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\bin\Debug\dot-7net.exe.config
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\bin\Debug\dot-7net.exe
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\bin\Debug\dot-7net.pdb
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\obj\Debug\dot-7net.csproj.AssemblyReference.cache
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\obj\Debug\dot-7net.csproj.CoreCompileInputs.cache
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\obj\Debug\dot-7net.exe
-C:\Csharp\assignment\assignment 2\dot-7net\dot-7net\obj\Debug\dot-7net.pdb
