@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\obj\Debug\student.cs.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\obj\Debug\student.cs.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\bin\Debug\student.cs.exe.config
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\bin\Debug\student.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\bin\Debug\student.cs.pdb
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\obj\Debug\student.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\student.cs\student.cs\obj\Debug\student.cs.pdb

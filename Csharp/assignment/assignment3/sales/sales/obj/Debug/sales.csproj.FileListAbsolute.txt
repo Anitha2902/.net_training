@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\bin\Debug\sales.exe.config
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\bin\Debug\sales.exe
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\bin\Debug\sales.pdb
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\obj\Debug\sales.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\obj\Debug\sales.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\obj\Debug\sales.exe
+C:\.net_training\Csharp\assignment\assignment3\sales\sales\obj\Debug\sales.pdb

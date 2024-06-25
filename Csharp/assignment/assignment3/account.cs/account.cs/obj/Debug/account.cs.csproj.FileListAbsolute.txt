@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\bin\Debug\account.cs.exe.config
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\bin\Debug\account.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\bin\Debug\account.cs.pdb
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\account.cs\account.cs\obj\Debug\account.cs.pdb

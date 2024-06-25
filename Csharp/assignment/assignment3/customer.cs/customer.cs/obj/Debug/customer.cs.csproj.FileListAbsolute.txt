@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\bin\Debug\customer.cs.exe.config
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\bin\Debug\customer.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\bin\Debug\customer.cs.pdb
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\obj\Debug\customer.cs.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\obj\Debug\customer.cs.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\obj\Debug\customer.cs.exe
+C:\.net_training\Csharp\assignment\assignment3\customer.cs\customer.cs\obj\Debug\customer.cs.pdb
