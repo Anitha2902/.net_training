@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assignment\assignment5\assignment5\bin\Debug\assignment5.exe.config
+C:\.net_training\Csharp\assignment\assignment5\assignment5\bin\Debug\assignment5.exe
+C:\.net_training\Csharp\assignment\assignment5\assignment5\bin\Debug\assignment5.pdb
+C:\.net_training\Csharp\assignment\assignment5\assignment5\obj\Debug\assignment5.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\assignment5\assignment5\obj\Debug\assignment5.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\assignment5\assignment5\obj\Debug\assignment5.exe
+C:\.net_training\Csharp\assignment\assignment5\assignment5\obj\Debug\assignment5.pdb
