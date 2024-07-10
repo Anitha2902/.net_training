@@ -1,0 +1,7 @@
+C:\.net_training\Csharp\assessment\cc4\cc4\bin\Debug\cc4.exe.config
+C:\.net_training\Csharp\assessment\cc4\cc4\bin\Debug\cc4.exe
+C:\.net_training\Csharp\assessment\cc4\cc4\bin\Debug\cc4.pdb
+C:\.net_training\Csharp\assessment\cc4\cc4\obj\Debug\cc4.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assessment\cc4\cc4\obj\Debug\cc4.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assessment\cc4\cc4\obj\Debug\cc4.exe
+C:\.net_training\Csharp\assessment\cc4\cc4\obj\Debug\cc4.pdb
