@@ -1,0 +1,2 @@
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\ConcessionCalculator.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\ConcessionCalculator.csproj.CoreCompileInputs.cache

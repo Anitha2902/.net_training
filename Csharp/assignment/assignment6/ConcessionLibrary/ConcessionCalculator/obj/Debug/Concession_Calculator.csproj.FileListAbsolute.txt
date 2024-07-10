@@ -1,0 +1,10 @@
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\bin\Debug\ConcessionCalculator.exe.config
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\bin\Debug\ConcessionCalculator.exe
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\bin\Debug\ConcessionCalculator.pdb
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\bin\Debug\ConcessionLibrary.dll
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\bin\Debug\ConcessionLibrary.pdb
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\Concession_Calculator.csproj.AssemblyReference.cache
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\Concession_Calculator.csproj.CoreCompileInputs.cache
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\Concession_Calculator.csproj.CopyComplete
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\ConcessionCalculator.exe
+C:\.net_training\Csharp\assignment\ConcessionLibrary\ConcessionCalculator\obj\Debug\ConcessionCalculator.pdb
