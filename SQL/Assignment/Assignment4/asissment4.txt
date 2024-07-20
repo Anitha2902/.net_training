@@ -1,0 +1,124 @@
+--Normalization
+------------------
+
+create table clients
+(
+  clientno varchar(10) primary key,
+  cname varchar(20) not null
+);
+
+create table properties
+(
+  propertyno varchar(10) primary key,
+  paddress varchar(100) not null,
+  ownerno varchar(5) not null,
+  oname varchar(50) not null
+);
+
+create table rentals
+(
+  clientno varchar(10),
+  propertyno varchar(10),
+  rentstart date,
+  renfinish date,
+  rent decimal(10,2),
+  primary key(clientno,propertyno),
+  foreign key(clientno) references clients(clientno),
+  foreign key (propertyno) references properties(propertyno)
+  
+);
+
+insert into clients values ('CR76', 'JOHN KEY'),
+                           ('CR56', 'ALINE STEWART');
+
+insert into properties values ('PG4','6 LAWRENCE ST,GLASGOW','C040','TINA MURPHY'),
+                              ('PG16','5 NOVER D,GLASGOW','C093','TONY SHAW'),
+			      ('PG36','2 MANOR ROAD,GLASGOW','C093','TONY SHAW');
+
+insert into rentals values ('CR76','PG4','2000-07-01','2001-08-31',350.00 ),
+                           ('CR76','PG16','2002-09-01','2002-09-01',450.00),
+		           ('CR56','PG4','1999-09-01','2000-06-10',350.00),
+			   ('CR56','PG36','2000-10-10','2001-12-01',370.00),
+			   ('CR56','PG16','2002-11-01','2003-08-01',450.00);
+
+select * from rentals;
+select * from properties;
+select * from clients;
+
+
+----Assignment-4
+--------------------
+
+--1.
+
+declare @number int = 10;
+declare @fact int = 1;
+declare @count int = 1;
+
+while @count <= @number
+begin
+   set @fact = @fact * @count;
+   set @count = @count + 1;
+end
+
+print 'The factorial of a number ' + cast (@number as varchar(20)) + ' is ' + cast (@fact as varchar(50));
+
+
+--2.
+CREATE OR ALTER PROCEDURE GenerateMultiplicationTable (@num INT, @endnum INT)
+AS
+BEGIN
+    DECLARE @res TABLE (multiplier INT, result INT);
+    DECLARE @count INT = 1;
+
+    WHILE @count <= @endnum
+    BEGIN
+        INSERT INTO @res (multiplier, result) VALUES (@count, @num * @count);
+        SET @count = @count + 1;
+    END
+
+    SELECT @num AS number, multiplier AS multiplier, result AS results
+    FROM @res;
+END;
+
+--to execute
+exec GenerateMultiplicationTable @num = 8, @endnum = 10;
+
+
+--3.
+
+----creation of table
+
+use assignments
+drop table holidays
+create table holidays
+(
+  holiday_date date,
+  holiday_name varchar(20)
+);
+
+insert into holiday values ('2024-07-20', 'independence day'),
+                           ('2024-11-04', 'diwali'),
+			   ('2024-12-25', 'christmas'),
+			   ('2024-01-26', 'republic day');
+select holiday_date,holiday_name from holidays
+
+--create a trigger
+
+create or alter trigger trg_Restrict_EMP_Manipulation on EMPloyee1
+instead of insert,update,delete
+as
+begin
+    declare @holiday_date date = getdate() 
+	declare @holiday_name varchar(20)
+
+	select @holiday_name = holiday_name from holiday where holiday_date = @holiday_date
+
+	if @holiday_name is not null 
+	begin
+	    raiserror('due to %s,you cannot manipulate data', 16, 1, @holiday_name);
+		rollback transaction;
+	end
+end
+select * from EMPloyee1;
+insert into EMPloyee1 values (7800,'vasanthi','testing',7690,'2024-07-20',8000.00,null,20);
