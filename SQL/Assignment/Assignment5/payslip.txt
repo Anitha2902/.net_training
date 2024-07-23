@@ -1,17 +1,16 @@
 
-
 create or alter procedure GeneratePaySlip @EmployeeID int
 as
 begin
   declare @EmployeeName varchar(20);
-  declare @Salary decimal(18,6);
-  declare @HRA decimal(18,6);
-  declare @DA decimal(18,6);
-  declare @PF decimal(18,6);
-  declare @IT decimal(18,6);
-  declare @Deductions decimal(18,6);
-  declare @GrossSalary decimal(18,6);
-  declare @NetSalary decimal(18,6);
+  declare @Salary decimal(18,2);
+  declare @HRA decimal(18,2);
+  declare @DA decimal(18,2);
+  declare @PF decimal(18,2);
+  declare @IT decimal(18,2);
+  declare @Deductions decimal(18,2);
+  declare @GrossSalary decimal(18,2);
+  declare @NetSalary decimal(18,2);
 
   select @EmployeeName = Ename, @Salary = salary from tblEmployees where Empno = @EmployeeID;
 
