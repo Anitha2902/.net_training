@@ -1,0 +1,7 @@
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\obj\Debug\SQLCC2.csproj.AssemblyReference.cache
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\obj\Debug\SQLCC2.csproj.CoreCompileInputs.cache
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\bin\Debug\SQLCC2.exe.config
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\bin\Debug\SQLCC2.exe
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\bin\Debug\SQLCC2.pdb
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\obj\Debug\SQLCC2.exe
+C:\.net_training\SQL\Assessment\SQLCC2\SQLCC2\obj\Debug\SQLCC2.pdb
