@@ -1,0 +1,18 @@
+-----a
+being tran
+insert into tblemployee values(1,'Anitha', 3000, '2020-01-15'),
+                              (2, 'Ramesh', 2000, '2019-05-20'),
+                              (3, 'Shyamala', 3500, '2021-08-10');
+
+							  select* from employees
+---b
+update employees set sal = sal*1.15 where empno = 2;
+select * from employees
+
+-----c
+delete from employees where empno = 1;
+rollback tran t1
+commit;
+
+select * from employees
+ 
