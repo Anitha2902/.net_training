@@ -1,7 +1,0 @@
-C:\.net_training\ADO assignment\ADO assignment\bin\Debug\ADO assignment.exe.config
-C:\.net_training\ADO assignment\ADO assignment\bin\Debug\ADO assignment.exe
-C:\.net_training\ADO assignment\ADO assignment\bin\Debug\ADO assignment.pdb
-C:\.net_training\ADO assignment\ADO assignment\obj\Debug\ADO assignment.csproj.AssemblyReference.cache
-C:\.net_training\ADO assignment\ADO assignment\obj\Debug\ADO assignment.csproj.CoreCompileInputs.cache
-C:\.net_training\ADO assignment\ADO assignment\obj\Debug\ADO assignment.exe
-C:\.net_training\ADO assignment\ADO assignment\obj\Debug\ADO assignment.pdb
