@@ -1,4 +1,4 @@
-create table books ( 
+Create Table Books ( 
 id int primary key,
 title varchar(50),
 author varchar(50),
@@ -16,7 +16,7 @@ select * from books
 --1
 select * from books where author like '%er';
  
-create table reviews ( 
+Create Table Reviews ( 
 id int primary key,
 book_id int,
 reviewer_name varchar(50),
@@ -36,7 +36,7 @@ select b.title,b.author,r.reviewer_name from books b join reviews r on b.id = r.
 --3
 select reviewer_name from reviews where book_id > 1;
  
-create table customer ( 
+Create Table Customer ( 
 id int primary key,
 name varchar(100),
 age int,
@@ -57,7 +57,7 @@ insert into customer values
 --4
 select name from customer where address like '%o%'
  
-create table orders ( 
+Create Table Orders ( 
 oid int primary key,
 order_date date,
 customer_id int,
@@ -78,7 +78,7 @@ update customer set salary =null where id in (6,7)
 select lower(name) as name_lowercase from customer where salary is Null
  
  
-create table studentdetails ( 
+Create Table Studentdetails ( 
 id int primary key,
 registerno int,
 name varchar(50),
@@ -92,11 +92,11 @@ gender char(1)
  
 insert into studentdetails(id,registerno, name, age, qualification,mobileno,mailid, location, gender) values
 (1,2,'Sai',22,'B.E','9952836777','sai@gmail.com','Chennai','M'),
-(2,3,'Kumar',20,'BSE','7890125648','Kumar@gmail.com','Chennai','M'),
-(3,4,'Selvi',22,'B.Tech','9819818369','Selvi@gmail.com','Chennai','F'),
-(4,5,'Nisha',25,'M.E','99390467994','Nisha@gmail.com','Chennai','F'),
-(5,6,'SaiSaran',21,'B.A','9246634389','SaiSaran@gmail.com','Chennai','F'),
-(6,7,'Tom',23,'BCA','8501036889','Tom@gmail.com','Chennai','M');
+(2,3,'Kumar',20,'BSE','7890125648','Kumar@gmail.com','Madurai','M'),
+(3,4,'Selvi',22,'B.Tech','9819818369','Selvi@gmail.com','Selam','F'),
+(4,5,'Nisha',25,'M.E','99390467994','Nisha@gmail.com','Theni','F'),
+(5,6,'SaiSaran',21,'B.A','9246634389','SaiSaran@gmail.com','Madhurai','F'),
+(6,7,'Tom',23,'BCA','8501036889','Tom@gmail.com','Pune','M');
  
 --7
 select gender, count(*) as total_count from studentdetails group by gender
