@@ -1,0 +1,7 @@
+C:\Users\anithaga\source\repos\pro\pro\bin\Debug\pro.exe.config
+C:\Users\anithaga\source\repos\pro\pro\bin\Debug\pro.exe
+C:\Users\anithaga\source\repos\pro\pro\bin\Debug\pro.pdb
+C:\Users\anithaga\source\repos\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\anithaga\source\repos\pro\pro\obj\Debug\pro.exe
+C:\Users\anithaga\source\repos\pro\pro\obj\Debug\pro.pdb
+C:\Users\anithaga\source\repos\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
